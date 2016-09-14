@@ -1,0 +1,10 @@
+- bbb ligada
+- tudo deve estar desligado
+- pressiona o botão ...
+  - se tiver luz a led vermelha acende e RGB apagado
+  - se não tiver luz vermelha permanece apagada e RGB acende
+    - se potenciometro tive com valor entre ...
+      - 0 a 1365 RGB vermelha
+      - 1365 a 2730 RGB verde
+      - 2730 a 4096 RGB azul
+  - pressiona botão desliga tudo
